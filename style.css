@@ -223,6 +223,7 @@
     color: #ffc800;
     text-shadow: 1px 1px 1px black;
     border-bottom: 2px solid #ffc800;
+    border-radius: 25px;
 }
 #product-cards .card h3{
     font-size: 20px;
